@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/88164366?v=4" width="150px" alt="BIRUK ZEWDE OLTAYE's Profile Picture" style="border-radius: 50%;">
   <h1>👋 Hello, I'm Biruk Zewde Oltaye! ✨</h1>
@@ -117,4 +116,3 @@ Here are some of my favorite projects:
 <div align="center">
   <small>Let's build something amazing together! ✨</small>
 </div>
-```
